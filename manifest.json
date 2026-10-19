@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "product": "pending",
+  "channel": "playtest",
+  "minimum_build": 1,
+  "latest_build": 1,
+  "latest_version": "0.9.20261019.1",
+  "download_url": ""
+}

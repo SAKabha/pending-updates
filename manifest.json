@@ -2,8 +2,8 @@
   "schema": 1,
   "product": "pending",
   "channel": "playtest",
-  "minimum_build": 1,
-  "latest_build": 1,
-  "latest_version": "0.9.20261019.1",
+  "minimum_build": 4,
+  "latest_build": 4,
+  "latest_version": "0.9.20261020.4",
   "download_url": ""
 }
